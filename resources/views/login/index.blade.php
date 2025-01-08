@@ -75,8 +75,7 @@
               <div class="card-body">
                 <!-- Logo -->
                 <div class="app-brand justify-content-center">
-                <img src="{{ asset('admin') }}/img/favicon/logo.png" class="center" style="height: 90px;"
-                        alt="Logo">
+                    <i class="bx bxs-clinic" style="font-size: 90px;"></i>
                 </div>
                 <!-- /Logo -->
                 <h4 class="mb-2">Selamat datang di klinik! 👋</h4>
